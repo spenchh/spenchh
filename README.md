@@ -37,10 +37,6 @@ I work on FPGA-based digital systems, HDL design, embedded hardware, and hardwar
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=spenchh&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=spenchh&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=spenchh&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=spenchh&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
