@@ -19,7 +19,6 @@ I work on FPGA-based digital systems, HDL design, embedded hardware, and hardwar
 - MATLAB-based modeling before HDL implementation
 - Board-level bring-up and hardware debugging
 
-# 💻 Tech Stack:
 ## Technical Stack
 
 ### Hardware and FPGA
@@ -29,7 +28,6 @@ I work on FPGA-based digital systems, HDL design, embedded hardware, and hardwar
 ![FPGA](https://img.shields.io/badge/FPGA-Digital%20Design-1F6FEB?style=flat-square)
 ![Vivado](https://img.shields.io/badge/Vivado-FPGA%20Toolchain-FFB000?style=flat-square)
 ![MATLAB](https://img.shields.io/badge/MATLAB-Modeling-0076A8?style=flat-square)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 
 ### Programming
 
