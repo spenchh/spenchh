@@ -31,6 +31,12 @@ I work on FPGA-based digital systems, HDL design, embedded hardware, and hardwar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Spencer%20Kogoma-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/spencerkogoma)
 [![Instagram](https://img.shields.io/badge/Instagram-kogomaspencer-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/kogomaspencer)
 
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=spenchh&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=spenchh&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=spenchh&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=spenchh&theme=gotham&hide_border=false)<br/>
