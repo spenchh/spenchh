@@ -13,6 +13,5 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=spenchh&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
----
-[![](https://komarev.com/ghpvc/?username=spenchh&icon=2&color=8)](https://visitcount.itsvg.in)
+
 
