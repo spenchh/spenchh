@@ -2,23 +2,6 @@
 
 I work on FPGA-based digital systems, HDL design, embedded hardware, and hardware acceleration research. My current focus is building practical FPGA design workflows, from fixed-point algorithm modeling to RTL implementation, simulation, and board-level bring-up.
 
-## Current Focus
-
-- FPGA-based motor control research using MATLAB, HDL Coder, Vivado, and the Arty Z7-10
-- Fixed-point arithmetic for field-oriented control
-- PWM generation, Hall sensor decoding, and fault handling in RTL
-- SystemVerilog verification and FPGA debugging workflows
-- Embedded systems, robotics hardware, and aerospace-focused digital design
-
-## Areas I Am Building In
-
-- FPGA architecture and digital logic design
-- SystemVerilog and Verilog RTL
-- Hardware acceleration
-- Motor control and embedded hardware
-- MATLAB-based modeling before HDL implementation
-- Board-level bring-up and hardware debugging
-
 ## Technical Stack
 
 ### Hardware and FPGA
