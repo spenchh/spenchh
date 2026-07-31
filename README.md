@@ -12,10 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=spenchh&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=spenchh&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=spenchh&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=spenchh&icon=2&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
