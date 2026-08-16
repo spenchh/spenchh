@@ -29,7 +29,6 @@ I work on FPGA-based digital systems, HDL design, embedded hardware, and hardwar
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Spencer%20Kogoma-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/spencerkogoma)
-[![Instagram](https://img.shields.io/badge/Instagram-kogomaspencer-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/kogomaspencer)
 
 ## GitHub Activity
 
