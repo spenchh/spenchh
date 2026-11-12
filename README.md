@@ -1,6 +1,6 @@
 # Spencer Kogoma
 
-I'm studying **Computer Engineering and Violin Performance at Northwestern University**, graduating in June 2028. I work on FPGA datapaths, RTL verification, and digital hardware, with interests in chip design and hardware acceleration.
+I'm studying **Computer Engineering and Violin Performance at Northwestern University**, graduating in June 2028. I work on FPGA datapaths, RTL verification, and digital hardware. I'm targeting **low-latency hardware engineering roles**, especially FPGA design for networking and trading systems.
 
 I'm currently a **Digital Design Engineer Intern at NASA**, working on VHDL interfaces, cocotb verification, and a mixed-signal telemetry PCB. At Northwestern, I lead digital design for the **NU Silicon Initiative** and low-voltage electrical work for the **Northwestern Solar Car Team**.
 
@@ -10,6 +10,7 @@ I'm currently a **Digital Design Engineer Intern at NASA**, working on VHDL inte
 
 | Project | What I've built |
 | --- | --- |
+| [10GbE FPGA Market-Data Datapath](https://github.com/spenchh/10GbE-FPGA-Datapath) | SystemVerilog receive logic for the AMD VCU118 that buffers AXI4-Stream Ethernet frames in BRAM. A separate decoder extracts quote fields from 248-bit synthetic UDP payloads, with cocotb checks for field extraction, reset, and idle retention. |
 | [FPGA Field-Oriented Motor Control](https://github.com/spenchh/FPGA-foc-motor-control) | Fixed-point motor-control RTL with current-loop simulation in Vivado/xsim. Pipelined control and protection paths to meet 100 MHz post-route timing with **+0.557 ns WNS** in the implementation wrapper. |
 | [3×3 Systolic MAC Array](https://portfolio-beta-ebon-62.vercel.app/projects/systolic-mac-array.html) | Nine processing elements with signed 8-bit operands and 20-bit accumulators. Completed RTL and gate-level simulation, synthesis, and place-and-route in Nangate 45 nm, meeting a **500 MHz constraint with +0.241 ns setup slack**. |
 | [FPGA Stream Stress Tester](https://github.com/spenchh/FPGA-Stream-Stress-Tester) | Parameterized 64-bit synchronous FIFO with directed cocotb tests for ordering, wraparound, and full/empty boundaries. Traffic generation, backpressure, and fault injection are ongoing work. |
@@ -18,6 +19,7 @@ I'm currently a **Digital Design Engineer Intern at NASA**, working on VHDL inte
 
 ## Current focus
 
+- Bringing up the 10GbE datapath for the VCU118 and working toward measuring latency under burst traffic.
 - Building streaming RTL and self-checking testbenches, with attention to reset behavior, data retention, and queue boundaries.
 - Exploring performance-guided on-chip fuzzing using queue occupancy and dependency stalls to find datapath latency bottlenecks.
 - Teaching digital design through SystemVerilog exercises and RTL code reviews.
