@@ -2,7 +2,7 @@
 
 I'm studying **Computer Engineering and Violin Performance at Northwestern University**, graduating in June 2028. I work on FPGA datapaths, RTL verification, and digital hardware, with interests in chip design and hardware acceleration.
 
-I'm currently a **Digital Design Engineer Intern with Amentum at NASA**, working on VHDL interfaces, cocotb verification, and a mixed-signal telemetry PCB. At Northwestern, I lead digital design for the **NU Silicon Initiative** and low-voltage electrical work for the **Northwestern Solar Car Team**.
+I'm currently a **Digital Design Engineer Intern at NASA**, working on VHDL interfaces, cocotb verification, and a mixed-signal telemetry PCB. At Northwestern, I lead digital design for the **NU Silicon Initiative** and low-voltage electrical work for the **Northwestern Solar Car Team**.
 
 [Portfolio](https://portfolio-beta-ebon-62.vercel.app) · [LinkedIn](https://www.linkedin.com/in/spencerkogoma)
 
